@@ -1,0 +1,12 @@
+{
+    "name": "kilianmarcell/wordpress",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kilianmarcell\\Wordpress\\": "src/"
+        }
+    },
+    "require": {
+        "johnpbloch/wordpress": "^5.9"
+    }
+}
